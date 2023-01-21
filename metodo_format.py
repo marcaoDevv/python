@@ -11,3 +11,4 @@ nome = 'Marcos'
 idade = 22
 
 print('Meu nome é: {}. Minha idade é: {} anos' .format(nome, idade))
+print('teste')
