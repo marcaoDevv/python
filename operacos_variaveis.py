@@ -17,4 +17,3 @@ print(lucro)
 
 # Margem da loja
 print(lucro/faturamento)
-print('teste')
